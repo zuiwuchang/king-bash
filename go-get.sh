@@ -81,5 +81,6 @@ GoGets Other	\
 	github.com/axgle/mahonia	\
 	github.com/boombuler/barcode	\
 	github.com/tealeg/xlsx	\
-	
+	github.com/satori/go.uuid	\
+
 echo "***	all success	***"
