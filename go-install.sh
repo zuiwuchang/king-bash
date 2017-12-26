@@ -35,7 +35,6 @@ GoInstalls Protocol-Buffers	\
 
 
 GoInstalls revel	\
-	github.com/golang/dep/cmd/dep	\
 	github.com/revel/cmd/revel	\
 
 GoInstalls vscode	\

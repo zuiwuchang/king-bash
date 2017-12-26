@@ -62,8 +62,7 @@ GoGets vscode	\
 	github.com/derekparker/delve/cmd/dlv	\
 
 GoGets revel	\
-	github.com/golang/dep/cmd/dep	\
-	github.com/revel/cmd/revel@v0.17.1	\
+	github.com/revel/cmd/revel	\
 
 GoGets SQL \
 	github.com/go-xorm/xorm	\
