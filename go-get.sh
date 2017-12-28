@@ -75,11 +75,18 @@ GoGets Scripts	\
 	github.com/yuin/gopher-lua	\
 	gopkg.in/olebedev/go-duktape.v3 \
 
+GoGets QT	\
+	github.com/therecipe/qt/cmd/...	\
+
+GoGets cui	\
+	github.com/jroimartin/gocui	\
+
 GoGets Other	\
 	github.com/chai2010/gettext-go/gettext	\
 	github.com/axgle/mahonia	\
 	github.com/boombuler/barcode	\
 	github.com/tealeg/xlsx	\
 	github.com/satori/go.uuid	\
+	github.com/fatih/color	\
 
 echo "***	all success	***"
