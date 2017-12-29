@@ -46,6 +46,9 @@ GoGets golang.org/x	\
 GoGets Protocol-Buffers	\
 	github.com/golang/protobuf/protoc-gen-go	\
 
+GoGets grpc	\
+	google.golang.org/grpc	\
+
 GoGets vscode	\
 	github.com/nsf/gocode	\
 	github.com/uudashr/gopkgs/cmd/gopkgs	\
@@ -75,8 +78,8 @@ GoGets Scripts	\
 	github.com/yuin/gopher-lua	\
 	gopkg.in/olebedev/go-duktape.v3 \
 
-GoGets QT	\
-	github.com/therecipe/qt/cmd/...	\
+GoGets log	\
+	github.com/sirupsen/logrus	\
 
 GoGets cui	\
 	github.com/jroimartin/gocui	\

@@ -33,6 +33,9 @@ function GoInstalls(){
 GoInstalls Protocol-Buffers	\
 	github.com/golang/protobuf/protoc-gen-go	\
 
+GoInstalls grpc	\
+	google.golang.org/grpc	\
+
 
 GoInstalls revel	\
 	github.com/revel/cmd/revel	\
