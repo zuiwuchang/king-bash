@@ -43,6 +43,9 @@ GoGets golang.org/x	\
 	golang.org/x/text	\
 	golang.org/x/tools/...	\
 
+GoGets google	\
+	github.com/google/uuid	\
+
 GoGets Protocol-Buffers	\
 	github.com/golang/protobuf/protoc-gen-go	\
 
@@ -83,6 +86,9 @@ GoGets log	\
 
 GoGets cui	\
 	github.com/jroimartin/gocui	\
+
+GoGets qt	\
+	github.com/therecipe/qt/cmd/...	\
 
 GoGets Other	\
 	github.com/chai2010/gettext-go/gettext	\

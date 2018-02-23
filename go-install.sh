@@ -55,4 +55,7 @@ GoInstalls vscode	\
 	github.com/cweill/gotests/...	\
 	github.com/derekparker/delve/cmd/dlv	\
 
+GoInstalls qt	\
+	github.com/therecipe/qt/cmd/...	\
+
 echo "***	all success	***"
