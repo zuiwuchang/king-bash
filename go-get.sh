@@ -45,6 +45,7 @@ GoGets golang.org/x	\
 
 GoGets google	\
 	github.com/google/uuid	\
+	github.com/google/go-jsonnet	\
 
 GoGets Protocol-Buffers	\
 	github.com/golang/protobuf/protoc-gen-go	\
@@ -97,5 +98,7 @@ GoGets Other	\
 	github.com/tealeg/xlsx	\
 	github.com/satori/go.uuid	\
 	github.com/fatih/color	\
+	github.com/spf13/cobra	\
+
 
 echo "***	all success	***"
