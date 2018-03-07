@@ -45,7 +45,7 @@ GoGets golang.org/x	\
 
 GoGets google	\
 	github.com/google/uuid	\
-	github.com/google/go-jsonnet	\
+	github.com/google/go-jsonnet/jsonnet	\
 
 GoGets Protocol-Buffers	\
 	github.com/golang/protobuf/protoc-gen-go	\

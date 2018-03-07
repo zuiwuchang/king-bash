@@ -36,6 +36,9 @@ GoInstalls Protocol-Buffers	\
 GoInstalls grpc	\
 	google.golang.org/grpc	\
 
+GoInstalls google	\
+	github.com/google/go-jsonnet/jsonnet	\
+
 
 GoInstalls revel	\
 	github.com/revel/cmd/revel	\
